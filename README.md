@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiccomangi2anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ccomangi2=nuraghazra&show_icons=true&theme=radical)
 <!--
 **ccomangi2/ccomangi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
