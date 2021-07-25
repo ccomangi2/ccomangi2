@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Subing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomangi2&show_icons=true)
+![Subing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomangi2&show_icons=true?theme=graywhite)
 
 <!--![Subin's GitHub stats](https://github-readme-stats.vercel.app/api?ccomangi2=nuraghazra&show_icons=true&theme=radical)
 <!--
