@@ -1,4 +1,4 @@
-### Welcome to Subin's Github ! 👋:heartpulse::computer:
+### Welcome to Subin's Github ! 👋
 
 ![Subing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomangi2&show_icons=true&theme=graywhite)
 
